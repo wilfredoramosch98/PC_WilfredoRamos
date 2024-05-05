@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PC_WilfredoRamos</string>
+    <string name="calculoNotas">Cálculo de Notas</string>
+    <string name="txtExamenParcial">Examen Parcial</string>
+    <string name="txtExamenFinal">Examen Final</string>
+    <string name="txtPromedioEvaluacionPermanente">Promedio de evaluación permanente (PEP)</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="txtResultado">Resultado</string>
+    <string name="txtNotaFinal">La Nota Final es:</string>
+    <string name="txtEstadoAlumno">Resultado:</string>
+</resources>
