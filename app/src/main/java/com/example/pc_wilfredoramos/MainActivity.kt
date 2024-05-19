@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
             this.evaluarNota(etxtExamenParcial.text.toString(),etxtExamenFinal.text.toString(),etxtPEP.text.toString() )
 
 
+
         }
     }
 
