@@ -25,11 +25,8 @@ class MainActivity : AppCompatActivity() {
         val etxtPEP = findViewById<EditText>(R.id.etxtPEP)
         val btnCalcular = findViewById<Button>(R.id.btnCalcular)
 
-
         btnCalcular.setOnClickListener{
             this.evaluarNota(etxtExamenParcial.text.toString(),etxtExamenFinal.text.toString(),etxtPEP.text.toString() )
-
-
 
         }
     }
@@ -54,8 +51,6 @@ class MainActivity : AppCompatActivity() {
         intent.putExtra("resultado",resultado)
         intent.putExtra("notaFinal",notaFinal.toString())
         startActivity(intent)
-
-
 
     }
 
